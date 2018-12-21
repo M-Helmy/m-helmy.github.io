@@ -1,9 +1,9 @@
-----
+---
 layout: page
 title: Resume
 Software Engineer 
 subtitle: Mohamed Helmy Mashali 
-----
+---
 
 My name is Helmy. I have the following qualities:
 
