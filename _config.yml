@@ -77,16 +77,16 @@ social-network-links:
   github: daattali
   twitter: daattali
 #  reddit: yourname
-#   google-plus: +DeanAttali
+#   google-plus: +MoHelmy
 #   linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  snapchat: MoHelmy
+#  instagram: MoHelmy
+#  youtube: user/MoHelmy
 #  spotify: yourname
 #   telephone: +14159998888
-#  steam: deanat78
+#  steam: MoHelmy
 #  twitch: yourname
 #  yelp: yourname
 
@@ -144,8 +144,8 @@ title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
-# Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+# Output options (more information on Je---- site)
+timezone: "Cairo/Egypt"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -154,7 +154,7 @@ paginate: 5
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# Default YAML values (more information on Je-- site)
 defaults:
   -
     scope:
@@ -237,8 +237,6 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+
 
 
