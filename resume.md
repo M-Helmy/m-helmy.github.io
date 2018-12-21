@@ -4,10 +4,9 @@ title: Resume
 subtitle: Software Engineer 
 ---
 
-My name is Helmy. I have the following qualities:
 
-### QUALIFICATIONS PROFILE
-Technically sophisticated professional offering hands-on experience in Software Development and Systems Analysis;
+### QUALIFICATIONS PROFILE<br/>
+Technically sophisticated professional offering hands-on experience in Software Development and Systems Analysis;<br/>
 
 - Expertly translate functional and technical requirements into elegant solutions that address complex business challenges.
 - Solid knowledge of project lifecycle, which included all phases of system and software development.
@@ -16,6 +15,7 @@ Technically sophisticated professional offering hands-on experience in Software 
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
 **Core Technologies**<br/> 
+-------------------
 **Environments:**<br/>
 JavaScript, Java, C, C++, Python, HTML5 & CSS3 - SQL Data Modeller Oracle & Microsoft,
 
@@ -26,17 +26,17 @@ Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platfor
 Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7.
 
 ### EDUCATION AND CREDENTIALS
-- Master of Science Degree in Computer Science 2019 - Present<br/>
+ #### - Master of Science Degree in Computer Science 2019 - Present<br/>
   College of Computing & Information Technology - CCIT<br/>
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
-- Postgraduate Diploma in Computer Science 2015 - 2018<br/>
+#### - Postgraduate Diploma in Computer Science 2015 - 2018<br/>
   College of Computing & Information Technology - CCIT<br/>
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
-- Bachelor Degree of Management Information Systems (MIS) 2004 - 2008<br/>
+#### - Bachelor Degree of Management Information Systems (MIS) 2004 - 2008<br/>
   High Institute for Computer & Information Systems - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
