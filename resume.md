@@ -61,3 +61,6 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 ### For Work Experince: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a>
 
+
+
+**A electronic copy of the resume will be sent upon request.
