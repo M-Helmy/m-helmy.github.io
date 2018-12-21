@@ -1,4 +1,4 @@
-// Dean Attali / Beautiful Jekyll 2016
+// Mo Helmy / Be Je 2018
 
 var main = {
 
