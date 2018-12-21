@@ -63,4 +63,4 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 
 
-**A electronic copy of the resume will be sent upon request.
+***A electronic copy of the resume will be sent upon request.***<br/>
