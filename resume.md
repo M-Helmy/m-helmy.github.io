@@ -1,8 +1,6 @@
-
-
 ---
 layout: page
-title: Resume
+title: About me Resume
 subtitle: Why you'd want to go on a date with me
 ---
 
