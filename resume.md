@@ -25,13 +25,13 @@ Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platfor
 Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7.
 
 ### EDUCATION AND CREDENTIALS
--Master of Science Degree in Computer Science 2018 - Present
+- Master of Science Degree in Computer Science 2018 - Present
 COLLEGE OF COMPUTING AND IT - ARAB ACADEMY FOR SCIENCE AND TECHNOLOGY - AAST
 Alexandria, Egypt
--Postgraduate Diploma in Computer Science 2015 - 2018
+- Postgraduate Diploma in Computer Science 2015 - 2018
 COLLEGE OF COMPUTING AND IT - ARAB ACADEMY FOR SCIENCE AND TECHNOLOGY - AAST
 Alexandria, Egypt
--Bachelor Degree of Management Information Systems (MIS) 2004 - 2008
+- Bachelor Degree of Management Information Systems (MIS) 2004 - 2008
 HIGH INSTITUTE FOR COMPUTER AND INFORMATION SYSTEMS - ALEXANDRIA UNIVERSITY
 Alexandria, Egypt
 
