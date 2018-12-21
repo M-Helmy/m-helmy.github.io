@@ -34,7 +34,7 @@ COLLEGE OF COMPUTING AND IT - ARAB ACADEMY FOR SCIENCE AND TECHNOLOGY - AAST
 Alexandria, Egypt
 
 - Bachelor Degree of Management Information Systems (MIS) 2004 - 2008
-High Institute for Computer & Information Systems - Alexandria University
+######High Institute for Computer & Information Systems - Alexandria University
 Alexandria, Egypt
 
 **Certifications**
