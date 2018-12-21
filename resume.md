@@ -35,7 +35,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
-- Bachelor Degree of Management Information Systems (MIS) 2004 - 2008<br/>
+<i class="fa fa-graduation-cap" style="font-size:36px;" aria-hidden="true"></i> Bachelor Degree of Management Information Systems (MIS) 2004 - 2008<br/>
   High Institute for Computer & Information Systems - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
