@@ -15,7 +15,6 @@ Technically sophisticated professional offering hands-on experience in Software 
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
 ***Core Technologies***<br/> 
-<dt>Environments:</dt>
 **Environments:**<br/>
 JavaScript, Java, C, C++, Python, HTML5 & CSS3 - SQL Data Modeller Oracle & Microsoft,
 
