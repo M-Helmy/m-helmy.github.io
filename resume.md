@@ -30,12 +30,12 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
-- Postgraduate Diploma in Computer Science 2015 - 2018<br/>
+- Postgraduate Diploma in *Computer Science* 2015 - 2018<br/>
   College of Computing & Information Technology - CCIT<br/>
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
-- Bachelor Degree of Management Information Systems (MIS) 2004 - 2008<br/>
+- Bachelor Degree of *Management Information Systems (MIS)* 2004 - 2008<br/>
   High Institute for Computer & Information Systems - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
