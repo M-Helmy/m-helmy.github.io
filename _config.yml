@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "mohamed.halmey@gmail.com"
   facebook: M.Helmy.Mashali
 #  github: M-Helmy
@@ -85,7 +85,7 @@ social-network-links:
 #  instagram: MoHelmy
 #  youtube: user/MoHelmy
 #  spotify: yourname
-#   telephone: +14159998888
+   Telephone: +201005759130
 #  steam: MoHelmy
 #  twitch: yourname
 #  yelp: yourname
