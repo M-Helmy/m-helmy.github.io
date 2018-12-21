@@ -40,13 +40,16 @@ Alexandria, Egypt
 **Certifications**
 
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
-*Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS.
-~ PMI Project Management Professional (PMP)
-~ Big Data Specialist with IBM BigInsights v2.1
-~ ITIL v3 Foundation in IT Service Management - British Computer Society
-~ Linux Foundation: Linux Operating System - edX.org
-~ Microsoft Certified Systems Engineer (MCSE)
-~ Microsoft Certified Systems Administrator (MCSA)
-~ Cisco Certified Network Associate (CCNA)
+* Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS.
+* PMI Project Management Professional (PMP)
+* Big Data Specialist with IBM BigInsights v2.1
+* ITIL v3 Foundation in IT Service Management - British Computer Society
+* Linux Foundation: Linux Operating System - edX.org
+* Microsoft Certified Systems Engineer (MCSE)
+* Microsoft Certified Systems Administrator (MCSA)
+* Cisco Certified Network Associate (CCNA)
 
-
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
