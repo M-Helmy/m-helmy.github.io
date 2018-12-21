@@ -57,6 +57,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Association of Computing Machinery (ACM), 2014
 * Rotaract Club of Alexandria West – Egypt District #2450, 2009
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
-<br/>
+
+
 ### For Work Experince:<br/> <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a>
 
