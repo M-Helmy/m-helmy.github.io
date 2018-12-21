@@ -2,7 +2,6 @@
 layout: page
 title: Resume
 subtitle: Software Engineer 
----
 subtitle: Mohamed Helmy Mashali 
 ---
 
