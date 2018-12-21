@@ -22,7 +22,7 @@ JavaScript, Java, C, C++, Python, HTML5 & CSS3 - SQL Data Modeller Oracle & Micr
 Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools, Bitbucket & Git, Trello & Jira.
 
 **Methodologies:**<br/>
-Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7.
+Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7,8.
 
 ### EDUCATION AND CREDENTIALS
 - Master of Science Degree in Computer Science 2019 - Present<br/>
