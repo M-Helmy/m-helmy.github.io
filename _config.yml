@@ -17,7 +17,7 @@ baseurl: ""
 title: | Mohamed Helmy |
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: <i class="fa fa-globe" aria-hidden="true"></i> A virtual proof that name is awesome!
 
 # --- Navigation bar options --- #
 
