@@ -41,7 +41,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 **Certifications**
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
-* Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS.
+* Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS
 * PMI Project Management Professional (PMP)
 * Big Data Specialist with IBM BigInsights v2.1
 * ITIL v3 Foundation in IT Service Management - British Computer Society
