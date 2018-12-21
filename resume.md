@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Engineer 
 ---
 
 My name is Helmy. I have the following qualities:
