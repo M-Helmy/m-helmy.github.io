@@ -24,7 +24,7 @@ Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platfor
 **Methodologies:**<br/>
 Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7,8.
 
-### EDUCATION AND CREDENTIALS
+### <i class="fa fa-graduation-cap" style="font-size:12px;"></i> EDUCATION AND CREDENTIALS
 - Master of Science Degree in Computer Science 2019 - Present<br/>
   College of Computing & Information Technology - CCIT<br/>
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
