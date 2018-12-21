@@ -58,4 +58,5 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Rotaract Club of Alexandria West – Egypt District #2450, 2009
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
+**Work Experince:** <a href="https://www.linkedin.com/profile/add?startTask=SCHOOL_NAME" rel="nofollow" target="_blank"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png" alt="LinkedIn Add to Profile button"></a>
 
