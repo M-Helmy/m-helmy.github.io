@@ -14,8 +14,8 @@ Technically sophisticated professional offering hands-on experience in Software 
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
-**Core Technologies**<br/> 
--------------------
+***Core Technologies***<br/> 
+<dt>Environments:</dt>
 **Environments:**<br/>
 JavaScript, Java, C, C++, Python, HTML5 & CSS3 - SQL Data Modeller Oracle & Microsoft,
 
