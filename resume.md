@@ -16,13 +16,6 @@ What else do you need?
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie]
 (http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
----
-### MOHAMED HELMY MASHALI
-Zezenia, Alexandria
-(+2) 0100 575 9130 • mohamed.halmey@gmail.com
-LinkedIn: www.linkedin.com/in/mohamedhelmy
-Website: www.CoderaGo.com
----
 
 
 ### QUALIFICATIONS PROFILE
@@ -40,30 +33,19 @@ JavaScript, Java, C, C++, Python, HTML5 & CSS3 - SQL Data Modeller Oracle & Micr
 Tools:
 Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools, Bitbucket & Git, Trello & Jira.
 Methodologies:
-Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7
+Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7.
 
 EDUCATION AND CREDENTIALS
 ---
-**Master of Science Degree in Computer Science 2018 - Present**
+-**Master of Science Degree in Computer Science 2018 - Present**
 COLLEGE OF COMPUTING AND IT - ARAB ACADEMY FOR SCIENCE AND TECHNOLOGY - AAST
 Alexandria, Egypt
-**Postgraduate Diploma in Computer Science 2015 - 2018**
+-**Postgraduate Diploma in Computer Science 2015 - 2018**
 COLLEGE OF COMPUTING AND IT - ARAB ACADEMY FOR SCIENCE AND TECHNOLOGY - AAST
 Alexandria, Egypt
-**Bachelor Degree of Management Information Systems (MIS) 2004 - 2008**
+-**Bachelor Degree of Management Information Systems (MIS) 2004 - 2008**
 HIGH INSTITUTE FOR COMPUTER AND INFORMATION SYSTEMS - ALEXANDRIA UNIVERSITY
-Alexandria, Egypt
+Alexandria, Egypt.
 
 
-Certifications
----
 
-~ Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
-  Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS.
-~ PMI Project Management Professional (PMP)
-~ Big Data Specialist with IBM BigInsights v2.1
-~ ITIL v3 Foundation in IT Service Management - British Computer Society
-~ Linux Foundation: Linux Operating System - edX.org
-~ Microsoft Certified Systems Engineer (MCSE)
-~ Microsoft Certified Systems Administrator (MCSA)
-~ Cisco Certified Network Associate (CCNA)
