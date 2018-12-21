@@ -40,7 +40,6 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Alexandria, Egypt<br/>
 
 **Certifications**
-
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
 * Udacity & Google Scholarship - Front-End Web Developer with JavaScript, Html, CSS.
 * PMI Project Management Professional (PMP)
@@ -51,4 +50,10 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Microsoft Certified Systems Administrator (MCSA)
 * Cisco Certified Network Associate (CCNA)
 
-
+**Associations**
+* Irish Computer Society 2016
+* Alexandria Toastmasters International Club 2015
+* Associate Member British Computer Society (AMBCS) 2014
+* Association of Computing Machinery (ACM), 2014
+* Rotaract Club of Alexandria West – Egypt District #2450, 2009
+* Institute of Electrical and Electronics Engineers (IEEE), 2008
