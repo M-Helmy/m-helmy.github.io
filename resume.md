@@ -11,7 +11,7 @@ Software Engineer<br/>
 • Alexandria<br/> 
 • Mobile: (+2) 0100 5759 130 <br/> 
 • Email: <a href="mailto:mohamed.halmey@gmail.com">mohamed.halmey@gmail.com</a>.<br> 
-                  * <a href="mailto:Eng.Helmy@4myinnervoice.com">Eng.Helmy@4myinnervoice.com</a>.<br> 
+                         * <a href="mailto:Eng.Helmy@4myinnervoice.com">Eng.Helmy@4myinnervoice.com</a>.<br> 
 
 
 
