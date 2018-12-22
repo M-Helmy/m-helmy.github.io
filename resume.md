@@ -4,6 +4,11 @@ title: Resume
 subtitle: Software Engineer 
 ---
 
+---
+layout: page
+title: Resume
+subtitle: Software Engineer 
+---
 
 ### QUALIFICATIONS PROFILE<br/>
 Technically sophisticated professional offering hands-on experience in Software Development and Systems Analysis;<br/>
