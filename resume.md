@@ -3,14 +3,14 @@ layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
 ---
-Software Engineer
+Software Engineer<br/> 
 ---
 ---
-Alexandria
-Mobile: (+2) 0100 575 9130 • 
-Email: mohamed.halmey@gmail.com
-       Eng.Helmy@4myinnervoice.com 
-LinkedIn: www.linkedin.com/in/mohamedhelmy
+Alexandria<br/> 
+Mobile: (+2) 0100 575 9130 <br/> 
+• Email: mohamed.halmey@gmail.com<br/> 
+       Eng.Helmy@4myinnervoice.com <br/> 
+LinkedIn: www.linkedin.com/in/mohamedhelmy <br/> 
 
 
 
