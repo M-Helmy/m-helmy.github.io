@@ -3,7 +3,7 @@ layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
 ---
-<h4 style="text-align:center;">Software Engineer</h4>
+<h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p>
 • Mobile: (+2) 0100 5759 130<br/> 
 • Email: **<a href="mailto:Eng.Helmy@4myinnervoice.com">Eng.Helmy@4myinnervoice.com</a>**<br>
