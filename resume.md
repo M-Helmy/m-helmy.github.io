@@ -5,12 +5,13 @@ subtitle: MOHAMED HELMY MASHALI
 ---
 Software Engineer<br/> 
 ---
+<a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a><br/>
 ---
 • Alexandria<br/> 
 • Mobile: (+2) 0100 5759 130 <br/> 
 • Email: <a href="mailto:mohamed.halmey@gmail.com">mohamed.halmey@gmail.com</a>.<br> 
          - <a href="mailto:Eng.Helmy@4myinnervoice.com">Eng.Helmy@4myinnervoice.com</a>.<br> 
-<a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a><br/>
+
 
 
 
