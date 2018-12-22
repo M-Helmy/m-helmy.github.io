@@ -1,12 +1,18 @@
 ---
 layout: page
 title: Resume
-subtitle: Software Engineer 
+subtitle: MOHAMED HELMY MASHALI
 ---
+subtitle: Software Engineer
 ---
-subtitle: Software Engineer 
----
----
+Alexandria
+Mobile: (+2) 0100 575 9130 • 
+Email: mohamed.halmey@gmail.com
+       Eng.Helmy@4myinnervoice.com 
+LinkedIn: www.linkedin.com/in/mohamedhelmy
+
+
+
 ### QUALIFICATIONS PROFILE<br/>
 Technically sophisticated professional offering hands-on experience in Software Development and Systems Analysis;<br/>
 
