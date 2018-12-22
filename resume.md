@@ -3,9 +3,6 @@ layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
 ---
-layout: page
-title: Resume
-subtitle: MOHAMED HELMY MASHALI
 ---
 Software Engineer<br/> 
 ---
