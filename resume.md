@@ -5,8 +5,6 @@ subtitle: Software Engineer
 ---
 
 ---
-layout: page
-title: Resume
 subtitle: Software Engineer 
 ---
 
