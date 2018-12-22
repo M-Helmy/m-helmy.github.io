@@ -3,7 +3,8 @@ layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
 ---
-subtitle: Software Engineer
+Software Engineer
+---
 ---
 Alexandria
 Mobile: (+2) 0100 575 9130 • 
