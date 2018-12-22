@@ -3,6 +3,10 @@ layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
 ---
+layout: page
+title: Resume
+subtitle: MOHAMED HELMY MASHALI
+---
 Software Engineer<br/> 
 ---
 <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a><br/>
