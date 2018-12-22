@@ -6,11 +6,11 @@ subtitle: MOHAMED HELMY MASHALI
 Software Engineer<br/> 
 ---
 ---
-Alexandria<br/> 
-Mobile: (+2) 0100 575 9130 <br/> 
+• Alexandria<br/> 
+• Mobile: (+2) 0100 5759 130 <br/> 
 • Email: mohamed.halmey@gmail.com<br/> 
-       Eng.Helmy@4myinnervoice.com <br/> 
-LinkedIn: www.linkedin.com/in/mohamedhelmy <br/> 
+         Eng.Helmy@4myinnervoice.com <br/> 
+LinkedIn: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a><br/>
 
 
 
