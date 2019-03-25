@@ -65,9 +65,16 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Rotaract Club of Alexandria West – Egypt District #2450, 2009
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
+**Projects**
+* MST it's Electrical & Automation Comapny http://mst-ct.com/  
+
 
 ### For Work Experince: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a>
 
 
 
 ***A electronic copy of the resume will be sent upon request.***<br/>
+
+
+<center>Clients 
+
