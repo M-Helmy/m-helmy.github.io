@@ -72,5 +72,5 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 ***A electronic copy of the resume will be sent upon request.***<br/>
 
-<p><h2>Clients</h2></p></center>
+<h3>Clients</h3></center>
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logo2222.png" alt="LinkedIn Add to Profile button"></a>
