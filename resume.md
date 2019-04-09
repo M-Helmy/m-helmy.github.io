@@ -42,7 +42,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Arab Academy for Science, Technology & Maritime Transport - AASTMT<br/>
   Alexandria, Egypt<br/>
 
--  **Bachelor Degree of Management Information Systems - MIS** *2004 - 2008*<br/>
+-  **Bachelor Degree of Commerce Major: Management Information Systems - MIS** *2004 - 2008*<br/>
   HICIS - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
