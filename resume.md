@@ -43,7 +43,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Alexandria, Egypt<br/>
 
 -  **Bachelor Degree of Management Information Systems - MIS** *2004 - 2008*<br/>
-  High Institute for Computer & Information Systems - Alexandria University<br/>
+  HICIS - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
 **Certifications**
