@@ -12,5 +12,5 @@ Find me on the following channels:
 - <a href="https://github.com/M-Helmy">GitHub</a>
 - <a href="https://medium.com/@MohamedHelmyMashali">Medium</a>
 
-A quick way to get a response from me is to send me an email <a href="mailto:mohamed.halmey@gmail.com">mohamed.halmey@gmail.com</a>.
+A quick way to get a response from me is to send me an email <a href="mailto:mohamed.halmey@gmail.com">mohamed.halmey@gmail.com</a><br>
 
