@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Contact me
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
 bigimg: /img/SkyLine.jpg
