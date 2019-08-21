@@ -1,4 +1,13 @@
 ---
+layout: post
+title: Contact me
+subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
+bigimg: https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/01d2c964930597.5ae23f3abbdd1.jpg
+tags: [books, test]
+---
+
+
+---
 layout: page
 title: Contact
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
