@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
-bigimg: /img/D-1.jpg
 ---
 
 My name is Mohamed Helmy. I have the following qualities:
