@@ -1,16 +1,8 @@
 ---
-layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
----
-
-/*---
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
----*/
+---
 
 My name is Mohamed Helmy. I have the following qualities:
 
