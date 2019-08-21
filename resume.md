@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 subtitle: MOHAMED HELMY MASHALI
+bigimg: /img/Desk.jpg
 ---
 <h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p><br>
