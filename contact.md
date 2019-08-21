@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ☎️ Contact
+title: <i class="fal fa-address-card" style="font-size:24px;"></i> Contact
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
 ---
 <h2 style="text-align:center;">Mohamed Helmy</h2>
