@@ -15,7 +15,7 @@ bigimg: /img/desk.jpg
 
 
 ### QUALIFICATIONS PROFILE<br/>
-Technically sophisticated professional offering hands-on experience in Software Development and Systems Analysis;<br/>
+Technically sophisticated professional offering hands-on experience in Web Development and Systems Analysis;<br/>
 
 - Expertly translate functional and technical requirements into elegant solutions that address complex business challenges.
 - Solid knowledge of project lifecycle, which included all phases of system and software development.
