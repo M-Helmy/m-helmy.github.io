@@ -3,7 +3,6 @@ layout: page
 title: Contact
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
 ---
-
 Find me on the following channels:
 
 - <a href="https://www.linkedin.com/in/mohamedhelmy" target="_blank">LinkedIn</a>
