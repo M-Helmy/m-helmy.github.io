@@ -76,3 +76,24 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><h3>Projects:</h3></center>
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logosmall.png" alt="LinkedIn Add to Profile button"></a>
   
+
+
+
+
+<!-- Default Statcounter code for M-helmy.github.io Resume
+https://m-helmy.github.io/resume -->
+<script type="text/javascript">
+var sc_project=12067870; 
+var sc_invisible=1; 
+var sc_security="a87d7c22"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12067870/0/a87d7c22/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
