@@ -19,14 +19,14 @@ Talented Full Stack Web Developer with Self-Motivated Attitude,
 More than 7 years of Drupal 7/8 CMS Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **On Stack:**<br>
-· Experience themer and a developer working in Drupal (both 7 and 8)<br>
-· Database administration and management of a hosting environment<br>
-· Domain (DNS) Management<br>
-· Drush, Version Control with GitHub, Bitbucket.<br>
-· Understanding of agile/scrum process (experience in working with JIRA)<br>
-· Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
-· Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
-· Newbie in JSX at React.js / Babel.js / Node.js<br>
+- Experience themer and a developer working in Drupal (both 7 and 8)<br>
+- Database administration and management of a hosting environment<br>
+- Domain (DNS) Management<br>
+- Drush, Version Control with GitHub, Bitbucket.<br>
+- Understanding of agile/scrum process (experience in working with JIRA)<br>
+- Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
+- Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
+- Newbie in JSX at React.js / Babel.js / Node.js<br>
 
 
 **Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
