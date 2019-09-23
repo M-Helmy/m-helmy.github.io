@@ -7,7 +7,7 @@ bigimg: /img/desk.jpg
 <h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p><br>
 
-<p align="justify">
+<p align="center">
 Front-End Developer, Dribbbler, Philanthropist, Technology Evangelist, Forced Blogger, UI Baker, International Speaker, Starbucks Addict and hell yeah Foodie. Currently Working @MST
 </p>
 
