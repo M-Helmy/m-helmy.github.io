@@ -18,7 +18,7 @@ bigimg: /img/desk.jpg
 Talented Full Stack Web Developer with Self-Motivated Attitude,
 More than 7 years of Drupal 7/8 CMS Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
-On Stack:<br>
+**On Stack:**<br>
 · Experience themer and a developer working in Drupal (both 7 and 8)<br>
 · Database administration and management of a hosting environment<br>
 · Domain (DNS) Management<br>
@@ -29,7 +29,7 @@ On Stack:<br>
 · Newbie in JSX at React.js / Babel.js / Node.js<br>
 
 
-Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>
+**Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
 
 - Expertly translate functional and technical requirements into elegant solutions that address complex business challenges.
 - Solid knowledge of project lifecycle, which included all phases of system and software development.
@@ -37,7 +37,7 @@ Technically sophisticated professional offering hands-on experience in Web Devel
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
-For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
+**For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
 
 
 ***Core Technologies***<br/> 
