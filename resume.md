@@ -37,7 +37,7 @@ More than 7 years of Drupal 7/8 CMS Development experience with proven backgroun
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
-**For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
+For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
 
 
 ***Core Technologies***<br/> 
