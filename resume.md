@@ -20,7 +20,7 @@ Talented Full Stack Web Developer with Self-Motivated Attitude,
 More than 7 years of Drupal 7/8 CMS Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **On Stack:**<br>
-- Experience themer and a developer working in Drupal (both 7 and 8)<br>
+- Experience Site Builder and a developer working in Drupal (both 7 and 8)<br>
 - Database administration and management of a hosting environment<br>
 - Domain (DNS) Management<br>
 - Drush, Version Control with GitHub, Bitbucket.<br>
