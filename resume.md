@@ -7,22 +7,18 @@ bigimg: /img/desk.jpg
 <h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p><br>
 
+<p align="justify">
 Front-End Developer, Dribbbler, Philanthropist, Technology Evangelist, Forced Blogger, UI Baker, International Speaker, Starbucks Addict and hell yeah Foodie. Currently Working @MST
+</p>
+
+
+
 
 
 
 • Mobile: (+2) 0100 5759 130<br/> 
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br>
 
-
-
-Front-End Developer, Dribbbler, Philanthropist, 
-Technology Evangelist, 
-Forced Blogger, 
-UI Baker,
-Toastmaster International Speaker, 
-Starbucks Addict and hell yeah Foodie. 
-Currently Working @MST
 
 ### QUALIFICATIONS PROFILE<br/>
 Technically sophisticated professional offering hands-on experience in Web Development and Systems Analysis;<br/>
