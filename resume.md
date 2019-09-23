@@ -40,7 +40,7 @@ Technically sophisticated professional offering hands-on experience in Web Devel
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
-For more info contact me here / website: [github.io/contact](https://m-helmy.github.io/contact)<br>
+For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
 
 
 ***Core Technologies***<br/> 
