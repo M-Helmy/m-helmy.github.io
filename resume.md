@@ -8,7 +8,8 @@ bigimg: /img/desk.jpg
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p><br>
 
 <p align="center">
-Front-End Developer, Dribbbler, Philanthropist, Technology Evangelist, Forced Blogger, UI Baker, International Speaker, Starbucks Addict and hell yeah Foodie. Currently Working @MST
+Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist, Forced Blogger, UI Baker, Toastmasters International Speaker, Starbucks Lover and hell yeah Foodie. Currently Working @MST
+
 </p>
 
 
@@ -21,13 +22,45 @@ Front-End Developer, Dribbbler, Philanthropist, Technology Evangelist, Forced Bl
 
 
 ### QUALIFICATIONS PROFILE<br/>
-Technically sophisticated professional offering hands-on experience in Web Development and Systems Analysis;<br/>
+Talented Full Stack Web Developer with Self-Motivated Attitude,
+More than 7 years of Drupal 7/8 CMS Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
+
+On Stack:
+· Experience themer and a developer working in Drupal (both 7 and 8)
+· Database administration and management of a hosting environment
+· Domain (DNS) Management
+· Drush, Version Control with GitHub, Bitbucket.
+· Understanding of agile/scrum process (experience in working with JIRA)
+· Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.
+· Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.
+
+· Newbie in JSX at React.js / Babel.js / Node.js
+
+
+
+Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>
 
 - Expertly translate functional and technical requirements into elegant solutions that address complex business challenges.
 - Solid knowledge of project lifecycle, which included all phases of system and software development.
 - Competent trouble-shooter continually focused on identifying, isolating, and resolving technical issues with cost effective solutions.
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
+
+
+
+
+• Technically sophisticated offering hands-on experience in software engineering, data engineering and systems analysis.
+
+- Expertly translate functional and technical requirements into elegant solutions that address complex business challenges.
+- Solid knowledge of project lifecycle , which included all phases of system and software development.
+- Competent trouble-shooter continually focused on identifying, isolating, and resolving technical issues with cost effective solutions.
+- Accomplished communicator skilled in building and strengthening relationships with cross functional teams and meeting tough deadlines.
+- Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
+
+For more info contact me here / website: https://m-helmy.github.io/contact
+
+
+
 
 ***Core Technologies***<br/> 
 **Environments:**<br/>
