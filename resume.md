@@ -4,7 +4,7 @@ title: Resume
 subtitle: MOHAMED HELMY MASHALI
 bigimg: /img/desk.jpg
 ---
-<meta name="theme-color" content="#ffd6008c" />            /* Helmy */
+<meta name="theme-color" content="#ffd6008c" />            
 
 <h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p>
