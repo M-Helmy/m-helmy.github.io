@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+<meta name="theme-color" content="#ffd6008c" />         
 
 My name is Mohamed Helmy. I have the following qualities:
 
