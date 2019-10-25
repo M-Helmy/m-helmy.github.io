@@ -4,6 +4,7 @@ title: Contact me
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
 bigimg: /img/SkyLine.jpg
 ---
+<meta name="theme-color" content="#ffd6008c" />            
 
 
 Find me on the following channels:
