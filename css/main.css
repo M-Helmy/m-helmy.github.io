@@ -273,11 +273,11 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
   background-image: url(https://processing.org/img/processing-web.png); /* --- Added by helmy --- */
   filter: drop-shadow(2px 2px 6px black); /* --- Added by helmy --- */
 
   
+  {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
   background-attachment: fixed;
   {% endif %}
