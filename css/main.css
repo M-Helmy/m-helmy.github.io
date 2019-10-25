@@ -272,7 +272,7 @@ footer {
   border-top: 7px #ffd600 solid;
   margin-top: 50px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
+  /* background-color: {{ site.footer-col }}; */
   background-image: url(https://processing.org/img/processing-web.png); /* --- Added by helmy --- */
   filter: drop-shadow(2px 2px 6px black); /* --- Added by helmy --- */
 
