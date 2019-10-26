@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: MOHAMED HELMY MASHALI
+subtitle: MOHAMED HELMY  
 bigimg: /img/desk.jpg
 ---
 <meta name="theme-color" content="#ffd6008c" />            
