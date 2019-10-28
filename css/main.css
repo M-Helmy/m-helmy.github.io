@@ -130,6 +130,8 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
+  margin-left: 4px; /* Helmy */
+  margin-right: 4px; /* Helmy */
 }
 
 .navbar-custom .navbar-brand:hover,
