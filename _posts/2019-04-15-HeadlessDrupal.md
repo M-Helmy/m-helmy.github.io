@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Headless Drupal
-image: /img/D8.jpg
+image: /img/logo-headless-drupal1.png
 ---
 
 **Why Headless Drupal**
