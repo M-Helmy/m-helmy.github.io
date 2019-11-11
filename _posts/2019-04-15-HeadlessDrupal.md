@@ -2,6 +2,7 @@
 layout: post
 title: Headless Drupal
 subtitle: by AgileDrop
+image: /img/logo-headless-drupal1.png
 bigimg: /img/Headless-Drupal-vs-tradtitional-CMS-drupal-Diagram.png
 ---
 
