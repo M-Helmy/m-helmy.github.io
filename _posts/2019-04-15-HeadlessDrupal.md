@@ -17,6 +17,6 @@ It helps to speed up the site. JavaScript frameworks like React.js are known for
 
 The websites that use headless Drupal are much more responsive than ones using Drupal’s native front-end. It has become almost a necessity for a site to be responsive due to the immense rise of mobile devices. Thanks to headless Drupal, this is well addressed.<br/>
  
-
+{: .box-note}
 **Conclusion**<br/>
 Headless Drupal (headless websites, for that matter) are all the rage now whenever the future of the web is discussed. Where CMSs aimed to simplify management of a website’s content, this concept takes it a step further by aiming to simplify the front-end as well. Headless Drupal enables creating sites that are much faster, responsive and capable of delivering rich user experience.<br/>
