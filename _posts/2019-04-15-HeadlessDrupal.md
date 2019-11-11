@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Headless Drupal
-image: /img/logo-headless-drupal1.png
+subtitle: by AgileDrop
+bigimg: /img/logo-headless-drupal1.png
 ---
 
 **Why Headless Drupal**<br/>
