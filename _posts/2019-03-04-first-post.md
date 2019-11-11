@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Drupal!
+title: Why D8!
 image: /img/D8.jpg
 ---
 
