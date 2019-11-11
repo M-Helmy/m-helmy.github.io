@@ -1,12 +1,8 @@
-
 ---
 layout: post
 title: Headless Drupal
 image: /img/D8.jpg
 ---
-
-
-
 
 **Why Headless Drupal**
 There are multiple reasons for aiming to achieve this; some of them are:
