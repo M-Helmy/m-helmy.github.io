@@ -7,7 +7,6 @@ bigimg: /img/Drupal8.jpg
 ---
 
 ## Why Headless Drupal <br/>
-<em>There are multiple reasons for aiming to achieve this; some of them are:<br/></em>
 
 Making the site future proof. If in future there is a need to redesign a site, there won’t be any need of going through the hassle of redesigning the back-end and setting up services again. Since the logic of the website and the content management is handled by Drupal, redesigning a site visually would only require tinkering with the front-end.<br/>
 
