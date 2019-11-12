@@ -12,9 +12,9 @@ bigimg: /img/desk.jpg
 
 
 {: .box-warning}
-• Mobile: (+2) 0100 5759 130<br/> 
-• Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br>
+• Mobile: (+2) 0100 5759 130<br/>
 • Skype ID: mohamed.helmys
+• Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br>
 
 ### QUALIFICATIONS PROFILE<br/>
 Talented Full Stack Web Developer with Self-Motivated Attitude,
