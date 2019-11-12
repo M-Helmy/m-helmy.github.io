@@ -11,10 +11,10 @@ bigimg: /img/desk.jpg
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. Currently Working @MST </p>
 
 
-
+{: .box-warning}
 • Mobile: (+2) 0100 5759 130<br/> 
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br>
-
+• Skype ID: mohamed.helmys
 
 ### QUALIFICATIONS PROFILE<br/>
 Talented Full Stack Web Developer with Self-Motivated Attitude,
