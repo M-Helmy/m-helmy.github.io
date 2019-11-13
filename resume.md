@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Hi, I'm Helmy"
+title: "Resume"
 subtitle: MOHAMED HELMY
-css: "/css/index.css"
+bigimg: /img/desk.jpg
 ---
 <meta name="theme-color" content="#ffd6008c" />            
 
