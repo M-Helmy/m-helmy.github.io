@@ -102,7 +102,6 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 
 
-
 <!-- Default Statcounter code for M-helmy.github.io Resume
 https://m-helmy.github.io/resume -->
 <script type="text/javascript">
