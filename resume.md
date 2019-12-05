@@ -97,8 +97,9 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logosmall.png" alt="Mst-ct.com"></a>
   
 <center><h3>New Project (2020):</h3></center>
-<center><a href="http://jeraneg.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Jeraneg_logoS.png" alt="Jeraneg"></a>  
+<center><a href="http://jeraneg.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Jeraneg_logo.png" alt="Jeraneg"></a>  
   
+
 
 
 <!-- Default Statcounter code for M-helmy.github.io Resume
