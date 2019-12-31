@@ -93,8 +93,9 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 ***A electronic copy of the resume will be sent upon request.***<br/>
 
-<center><h3>Projects:</h3></center>
-<br/><center><h5><span style="background-color: #FFFF00">Delivered</span></h5></center>
+<center><h3>Projects:</h3></center><center><h5><span style="background-color: #FFFF00">Delivered</span></h5></center>
+
+<br/>
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br/>
 <br/>
 <center><h5><span style="background-color: #FFFF00">Website is Under Construction (2020)</span></h5></center>
