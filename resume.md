@@ -96,7 +96,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><h3>Projects:</h3></center>
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logosmall.png" alt="Mst-ct.com"></a>
   
-<mark><center><h5>Website is Under Construction (2020):</h5></center></mark>
+<center><h5><mark>Website is Under Construction (2020):</mark></h5></center>
 <center><a href="https://www.facebook.com/jeranegofficial/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Jeraneg_logo.png" style="max-width:35%;" alt="Jeraneg"></a>  
   
 
