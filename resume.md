@@ -44,7 +44,7 @@ For more info contact me here: [github.io/contact](https://m-helmy.github.io/con
 
 ***Core Technologies***<br/> 
 **Environments:**<br/>
-JavaScript, Java, C, C++, Python, HTML5/CSS3 - SQL Data Modeller Oracle & Microsoft.
+JavaScript, Php, Java, C, C++, Python, HTML5/CSS3 - SQL Data Modeller Oracle & Microsoft.
 
 **Tools:**<br/>
 Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools, Bitbucket & Git, Trello & Jira.
