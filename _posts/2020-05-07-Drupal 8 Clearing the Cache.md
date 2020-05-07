@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D8 Clearing the Cache
+title: Drupal 8 Clearing the Cache
 subtitle: by Mo Helmy
 image: /img/logo-headless-drupal1.png
 bigimg: /img/Drupal8.jpg
