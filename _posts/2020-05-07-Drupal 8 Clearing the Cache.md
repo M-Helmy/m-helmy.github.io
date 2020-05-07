@@ -8,8 +8,8 @@ bigimg: /img/Drupal8.jpg
 
 ## Clearing the Cache Without Drupal 8 GUI <br/>
 
-Using the rebuild script
-Open settings.php (/sites/default/settings.php) in any text editor. Add this line to the end of the file and save it:
+Using the rebuild script<br/>
+Open settings.php (/sites/default/settings.php) in any text editor. Add this line to the end of the file and save it:<br/>
 
 {: .box-error}
 $settings['rebuild_access'] = TRUE;<br/>
