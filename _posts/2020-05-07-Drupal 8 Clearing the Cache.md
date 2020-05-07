@@ -6,7 +6,7 @@ image: /img/D8.jpg
 bigimg: /img/Drupal8.jpg
 ---
 
-## Clearing the Cache Without Drupal 8 GUI <br/>
+## Clearing the Cache Drupal 8 <br/>
 
 Using the rebuild script<br/>
 Open settings.php (/sites/default/settings.php) in any text editor. Add this line to the end of the file and save it:<br/>
