@@ -8,7 +8,7 @@ bigimg: /img/Drupal8.jpg
 
 ## Clearing the Cache Drupal 8 <br/>
 
-Using the rebuild script<br/>
+Using the rebuild script.
 Open settings.php (/sites/default/settings.php) in any text editor. Add this line to the end of the file and save it:<br/>
 
 {: .box-error}
