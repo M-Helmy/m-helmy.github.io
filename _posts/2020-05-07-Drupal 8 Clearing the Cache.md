@@ -3,7 +3,7 @@ layout: post
 title: Drupal 8 Clearing the Cache
 subtitle: by Mo Helmy
 image: /img/D8.jpg
-bigimg: /img/Drupal8.jpg
+bigimg: /img/ColorsClear.jpg
 ---
 
 ## Clearing the Cache Drupal 8 <br/>
