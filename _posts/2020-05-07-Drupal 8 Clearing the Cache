@@ -11,7 +11,7 @@ bigimg: /img/Drupal8.jpg
 Using the rebuild script
 Open settings.php (/sites/default/settings.php) in any text editor. Add this line to the end of the file and save it:
 
-{: .box-note}
+{: .box-error}
 $settings['rebuild_access'] = TRUE;<br/>
 
 Visit http://www.YourDomainName.com/core/rebuild.php in your browser (where www.YourDomainName.com is your site’s URL). After a short pause, you should be redirected to the home page of your site, and the cache should be rebuilt.
