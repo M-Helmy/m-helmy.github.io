@@ -13,9 +13,9 @@ Open settings.php (/sites/default/settings.php) in any text editor. Add this lin
 
 {: .box-error}
 $settings['rebuild_access'] = TRUE;<br/>
-
+After saving visit the next link.<br/>
 {: .box-error}
-Visit http://www.YourDomainName.com/core/rebuild.php 
+http://www.YourDomainName.com/core/rebuild.php 
 
 In your browser (where www.YourDomainName.com is your site’s URL).<br/> 
 After a short pause, you should be redirected to the home page of your site, and the cache should be rebuilt.<br/>
