@@ -3,6 +3,7 @@ layout: page
 title: "Resume"
 subtitle: MOHAMED HELMY
 bigimg: /img/desk.jpg
+title-img: /img/logo.png
 ---
 <meta name="theme-color" content="#ffd6008c" />            
 
