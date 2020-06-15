@@ -1,5 +1,8 @@
 # --- General options --- #
-
+---
+img: /img/desk.jpg
+title-img: img/logo.png
+---
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -37,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
- title-img: img/logo.png
+# title-img: img/logo.png
 
 # --- Background colour/image options --- #
 
