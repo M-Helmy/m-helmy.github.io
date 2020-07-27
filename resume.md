@@ -5,7 +5,6 @@ subtitle: MOHAMED HELMY
 bigimg: /img/desk.jpg
 ---
 <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
-
 <meta name="theme-color" content="#ffd6008c" />            
 
 <h2 style="text-align:center;">Software Engineer</h2>
