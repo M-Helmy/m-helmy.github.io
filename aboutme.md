@@ -4,7 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
-
 <meta name="theme-color" content="#ffd6008c" />         
 
 My name is Mohamed Helmy. I have the following qualities:
