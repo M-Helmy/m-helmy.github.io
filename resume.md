@@ -103,7 +103,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><a href="https://jeraneg.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Jeraneg_logo.png" style="max-width:30%;" alt="Jeraneg"></a>  
 
 <center><h5><span style="background-color: #FFFF00">Mobile App Website is Under Construction (2020)</span></h5></center>
-<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/FitnessGarage.png" style="max-width:30%;" alt="FitnessGarage"></a>  
+<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/FitnessGarage.png" style="max-width:50%;" alt="FitnessGarage"></a>  
 
 
 
