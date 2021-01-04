@@ -17,6 +17,7 @@ bigimg: /img/desk.jpg
 • Skype ID: mohamed.helmys<br/>
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br/>
 • **[CV]**(https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf)<br/>
+• **<a href="https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf">CV</a>**
 
 
 ### QUALIFICATIONS PROFILE<br/>
