@@ -17,6 +17,7 @@ bigimg: /img/desk.jpg
 • Skype ID: mohamed.helmys<br/>
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br/>
 • **[CV]** (https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf)<br/>
+[CV](https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf)<br>
 
 ### QUALIFICATIONS PROFILE<br/>
 Talented Full Stack Web Developer with Self-Motivated Attitude,
