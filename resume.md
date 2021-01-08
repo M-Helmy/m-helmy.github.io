@@ -16,7 +16,7 @@ bigimg: /img/desk.jpg
 • Mobile: (+2) 0100 5759 130<br/>
 • Skype ID: mohamed.helmys<br/>
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br/>
-• Check my **<a href="https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf" class="fa fa-external-link" aria-hidden="true" target="_blank">CV</a>** <i class="fa fa-external-link" aria-hidden="true"></i><br/>
+• Check my **<a href="https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf" target="_blank" class="fa fa-external-link" aria-hidden="true">CV</a>**<i class="fa fa-external-link" aria-hidden="true"></i><br/>
 
 
 ### QUALIFICATIONS PROFILE<br/>
