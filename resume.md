@@ -19,7 +19,7 @@ bigimg: /img/desk.jpg
 • Check my **<a href="https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV</a>**<br/>
 
 <i class="fa fa-graduation-cap" style="font-size:24px;"></i> 
-<i class="fa fa-external-link" aria-hidden="true"></i>
+<i class="fa fa-external-link" aria-hidden="true"></i> 
 
 ### QUALIFICATIONS PROFILE<br/>
 Talented Full Stack Web Developer with Self-Motivated Attitude,
