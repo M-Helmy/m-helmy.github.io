@@ -2,8 +2,8 @@
 layout: post
 title: Interview with Johnson & Johnson Engineer / Release Manager
 subtitle: by Mohamed Helmy
-image: /img/D8.jpg
-logo: /img/DrupalTalks.png
+image: /img/DrupalTalks.png
+title-img: /img/DrupalTalks.png
 bigimg: /img/DrupalTalks.png
 ---
 
