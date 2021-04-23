@@ -4,7 +4,7 @@ title: Interview with Johnson & Johnson Engineer / Release Manager
 subtitle: by Mohamed Helmy
 image: /img/D8.jpg
 title-img: /img/DrupalTalks.png
-bigimg: /img/ColorsClear.jpg
+bigimg: /img/DrupalTalks.png
 ---
 
 ## Clearing the Cache Drupal 8 <br/>
