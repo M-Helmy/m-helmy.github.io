@@ -1,9 +1,8 @@
 ---
 layout: post
-title-img: /img/log.png
 title: Interview with Johnson & Johnson Engineer / Release Manager
 subtitle: by Mohamed Helmy
-<img src="/img/DrupalTalks.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+image: /img/idea.gif
 bigimg: /img/DrupalTalks.png
 ---
 
