@@ -2,7 +2,7 @@
 layout: post
 title: Interview with Johnson & Johnson Engineer / Release Manager
 subtitle: by Mohamed Helmy
-title-img: /img/DrupalTalks.png
+<img src="/img/DrupalTalks.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 bigimg: /img/DrupalTalks.png
 ---
 
@@ -24,4 +24,3 @@ After a short pause, you should be redirected to the home page of your site, and
 Open settings.php (/sites/default/settings.php) in a text editor.<br/>
 Find the line you added with (( $settings[rebuild_access] )) remove this line, and save the file.<br/> 
 
-<img src="/img/DrupalTalks.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
