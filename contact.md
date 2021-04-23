@@ -3,6 +3,7 @@ layout: page
 title: Contact me
 subtitle: Get In Touch. Find Me On LinkedIn, Twitter, GitHub And Medium.
 bigimg: /img/SkyLine.jpg
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 ---
 <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
 <meta name="theme-color" content="#ffd6008c" />            
